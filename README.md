@@ -1,5 +1,5 @@
 # Dark Souls 2 Significant Loot Sheet
-A checklist of items I find significant to a playthrough of DS2 and DS2: SOTFS.
+A checklist of items I find significant to a playthrough of DS2 and DS2: SOTFS. The items are sorted in order of difficulty to acquire, lower items in a section are considered more "late-game".
 
 # Dark Souls 2: Scholar of the First Sin
 - [ ] **Majula**: Using the Silvercat Ring jump to the lowest platform in the pit before the Gutter. Will be in an area with exploding hollows, in a metal chest where the Great Heal Excerpt used to be in DS2.
