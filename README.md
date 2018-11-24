@@ -1,4 +1,4 @@
-# Dark Souls 2 Significant Loot Sheet
+# Dark Souls 2 Important Loot Sheet
 A checklist of items I find significant to a playthrough of DS2 and DS2: SOTFS. The items are sorted in order of difficulty to acquire, lower items in a section are considered more "late-game".
 
 ## Dark Souls 2: Scholar of the First Sin
