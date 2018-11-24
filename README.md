@@ -11,6 +11,7 @@ A checklist of items I find significant to a playthrough of DS2 and DS2: SOTFS. 
 - [ ] **5 - Drangleic Castle**: After entering the castle go behind the curving staircases to a hallway with knights, make a left turn to a knight guarding a door, will be behind the door in a metal chest.
 
 ### Estus Flask Shard x12
+*Give the shards to the Emerald Herald in Majula to permanently increases the amount of times you can use the Estus Flask by one, to a maximum of 12 uses. Remaining shards can be sold to Lonesome Gavlan for 1,200 souls.*
 - [ ] **1 - Majula**: Next to the big gaping pit is a well with a large rock resting on the edge of it. Attacking the rock will cause a corpse holding the shard to be pulled up by the rope.
 - [ ] **2 - Forest of Fallen Giants**: On the platform where you can first meet the The Pursuer near the Cardinal Tower bonfire. One of the corpses is holding a shard.
 - [ ] **3 - Majula**: Use the House Key given by Cale the Cartographer in the Forest of Fallen Giants to unlock the mansion in Majula by the pit. Once inside the mansion, head to the basement. Defeat the Skeleton and continue forward to find the shard on some skeletal remains.
@@ -34,6 +35,7 @@ A checklist of items I find significant to a playthrough of DS2 and DS2: SOTFS. 
 - [ ] **5 - Black Gulch**: In a chest within the area immidiately after killin the Rotten.
 
 ### Estus Flask Shard x12
+*Give the shards to the Emerald Herald in Majula to permanently increases the amount of times you can use the Estus Flask by one, to a maximum of 12 uses. Remaining shards can be sold to Lonesome Gavlan for 1,200 souls.*
 - [ ] **1 - Majula**: Next to the big gaping pit is a well with a large rock resting on the edge of it. Attacking the rock will cause a corpse holding the shard to be pulled up by the rope.
 - [ ] **2 - Forest of Fallen Giants**: From the Cardinal Tower bonfire, go up the stairs until you reach a wooden door. Simple attack it to break through. Continue through the room filled with boxes and barrels to find a room with a tree growing through a hole in the floor. The shard is inside the metal treasure chest in the same room.
 - [ ] **3 - Majula**: Use the House Key given by Cale the Cartographer in the Forest of Fallen Giants to unlock the mansion in Majula by the pit. Once inside the mansion, head to the basement. Defeat the Skeleton and continue forward to find the shard on some skeletal remains.
